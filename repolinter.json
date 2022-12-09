@@ -1,0 +1,4 @@
+{
+  "$schema": "https://raw.githubusercontent.com/todogroup/repolinter/master/rulesets/schema.json",
+  "extends": "https://raw.githubusercontent.com/twitter/.github/main/repolinter-rulesets/default.yaml"
+}
